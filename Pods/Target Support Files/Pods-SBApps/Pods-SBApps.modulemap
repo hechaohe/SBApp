@@ -1,0 +1,6 @@
+framework module Pods_SBApps {
+  umbrella header "Pods-SBApps-umbrella.h"
+
+  export *
+  module * { export * }
+}
